@@ -1,1 +1,1 @@
-# I-MiniMapsSociaux
+# M-MiniMapsSociaux
